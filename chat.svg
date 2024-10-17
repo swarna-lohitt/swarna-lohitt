@@ -1,5 +1,4 @@
-
-<svg width="550" height="290" viewBox="0 0 550 290" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="300" viewBox="0 0 550 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -233,7 +232,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="230" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm am idiot</text>
+    <text x="15" y="27">Hi, I'm Swarna Lohit</text>
   </g>
 
   <!-- typing 2 -->
@@ -254,7 +253,12 @@
 
   </g>
 
-
+  <!-- From Columbus... -->
+  <g transform="translate(10, 48)" class="msg-2">
+    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Exploring Vast Data</text>
+    <text x="15" y="50">Building Production-Ready ChatBots</text>
+  </g>
 
   <!-- typing 3 -->
   <g transform="translate(10, 120)" class="typing-3">
@@ -277,30 +281,12 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Living for nothing but chilling</text>    
-    <text x="15" y="50">I am the lazy one alive</text>
+    <text x="15" y="27">Fall in love with LLMs ❤️</text>    
+    <text x="15" y="50">Writing blogs and meaningful projects</text>
   </g>
 
   <!-- typing 4 -->
-
-
-
-  </g>
-
-  <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="200" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Don't look anything</text>
-  </g>
-
-    <!-- From Columbus... -->
-  <g transform="translate(10, 48)" class="msg-2">
-    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I don't know nothing ....</text>
-    <text x="15" y="50">but I copy paste garbage code</text>
-  </g>
-   <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
+  <g transform="translate(10, 192)" class="typing-5">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -314,7 +300,16 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-    <g transform="translate(10, 192)" class="typing-4">
+
+  </g>
+
+  <!-- Twitter -->
+  <g transform="translate(10, 192)" class="msg-5">
+    <rect width="200" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Curious Fellow</text>
+  </g>
+   <!-- typing 5 -->
+  <g transform="translate(10, 240)" class="typing-4">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -332,9 +327,9 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
-    <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">please reach out via insta ...</text>    
+  <g transform="translate(10, 240)" class="msg-4">
+    <rect width="400" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/swarna-lohit/">Linkedin ...</a></text>    
   </g>  
   
 
