@@ -256,7 +256,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">An Extra-Ordinary ML Engineer</text>
+    <text x="15" y="27">Enthusiastic ML Engineer</text>
     <text x="15" y="50">Building Production-Ready Bots</text>
   </g>
 
